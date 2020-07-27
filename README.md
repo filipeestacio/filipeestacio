@@ -52,11 +52,11 @@ During the Covid-19 Pandemic, most teaching institutions in the world have been 
 
 ## Getting in touch
 ### Websites
-[dev portfolio](https://filipeestacio.github.io)
-[Digital Water Consulting](https://www.digitalwaterconsulting.com)
+* [dev portfolio](https://filipeestacio.github.io)
+* [Digital Water Consulting](https://www.digitalwaterconsulting.com)
 
 ### Email
-[Email me](mailto:filipe.estacio@digitalwaterconsulting.com)
+* [Email me](mailto:filipe.estacio@digitalwaterconsulting.com)
 
 ## Other stuff
 Here is my totally unsolicited [spotify playlist](https://open.spotify.com/playlist/2eYjl4iVNYXI6yS8zI2ZWL?si=AUI1Dcg-SxyWfZJGUGF8sg)
