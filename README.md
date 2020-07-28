@@ -1,7 +1,7 @@
 # Hi there 👋!
 
 ## Who I am
-My name is Filipe (he/him).
+My name is Filipe.
 
 I'm not your "traditional" software developer. I started out in 2008 as a civil engineer. In 2017 I was assigned the task of maintaining and extending an Oracle Service Cloud system within my workplace. I had to crash-learn Javascript (and avoided PHP in any way I could).
 
